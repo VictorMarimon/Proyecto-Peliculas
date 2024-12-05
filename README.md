@@ -27,15 +27,10 @@ Este proyecto es una aplicación de gestión de películas desarrollada en **Jav
 
 ## 📂 Estructura del proyecto
 
-# Proyecto-Peliculas 
 │ ├── dominio/ │ └── Pelicula.java 
-# Clase para representar películas. 
 │ ├── servicio/ │ ├── IServicioPeliculas.java 
-# Interfaz para servicios de películas. 
 │ ├── ServicioPeliculasArchivos.java 
-# Implementación con persistencia en archivos. 
 │ └── ServicioPeliculasLista.java 
-# Implementación basada en listas. 
 │ └── presentacion/ └── CatalogoPeliculasApp.java 
 
 ---
